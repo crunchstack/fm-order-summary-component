@@ -152,7 +152,7 @@ body {
     }
 
     .card__body {
-        padding:48px;
+        padding:45px 48px 48px 48px;
     }
     
     .card__meta {
