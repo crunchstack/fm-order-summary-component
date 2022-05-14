@@ -1,0 +1,19 @@
+*, *::before, *::after {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background:url(../images/pattern-background-mobile.svg) top left / 100% no-repeat, hsl(225, 100%, 94%, 100%);
+    min-height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        background:url(../images/pattern-background-desktop.svg) top left / 100% no-repeat, hsl(225, 100%, 94%, 100%);
+    }
+}
