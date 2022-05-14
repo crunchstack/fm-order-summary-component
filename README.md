@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/crunchstack/fm-order-summary-component">
-    <img src="images/logo.svg" alt="Logo" width="80" height="80">
+    <img src="images/illustration-hero.svg" alt="Logo" >
   </a>
 
   <h3 align="center">Order summary component</h3>
@@ -49,7 +49,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://fm-order-summary-component.netlify.app/)
 
-Order Summary Component is an HTML/CSS frontend mentor challenge. This component was created entirely in HTML/CSS, without the help of CSS preprocessor or Javascript.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Built with 
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -61,9 +66,15 @@ git clone https://github.com/crunchstack/fm-order-summary-component
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Contact
+## Features
 
-Let's contact me on social media 
+- Mobile first responsive design
+- Lighten button on hover
+- Darken link on hover
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Contact
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crunchstack)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/crunchstack)
