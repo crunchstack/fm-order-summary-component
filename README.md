@@ -36,7 +36,7 @@
     <a href="https://github.com/crunchstack/fm-order-summary-component"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://fm-order-summary-component.netlify.app/">View Demo</a>
+    <a href="https://fm-summary-component.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/crunchstack/fm-order-summary-component/issues">Report Bug</a>
     ·
@@ -72,6 +72,7 @@ Let's contact me on social media
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot]: screenshot.jpg
 [contributors-shield]: https://img.shields.io/github/contributors/crunchstack/fm-order-summary-component.svg?style=for-the-badge
 [contributors-url]: https://github.com/crunchstack/fm-order-summary-component/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/crunchstack/fm-order-summary-component.svg?style=for-the-badge
